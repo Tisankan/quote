@@ -1,5 +1,152 @@
 [
-  { "id": 1, "quote": "இழிய என ஒன்று இல்லை கற்க வேண்டின் யாவர்க்கும் எவ் வழி எனினும் கேள்", "meaning": "There is no shame in learning from anyone, no matter the path." },
-  { "id": 2, "quote": "கடன் என ஒன்று உண்டு அதனை முதற்கண் சேர்மினே எல்லாம் அதன் பின்", "meaning": "There is one thing called truth; seek it first, and all else will follow." }
-
+  {
+    "id": 1,
+    "quote": "இழிய என ஒன்று இல்லை கற்க வேண்டின் யாவர்க்கும் எவ் வழி எனினும் கேள்",
+    "meaning": "There is no shame in learning from anyone, no matter the path. Be open to learning from all sources."
+  },
+  {
+    "id": 2,
+    "quote": "கடன் என ஒன்று உண்டு அதனை முதற்கண் சேர்மினே எல்லாம் அதன் பின்",
+    "meaning": "There is one thing called truth; seek it first, and all else will follow. Truth is essential for genuine learning."
+  },
+  {
+    "id": 3,
+    "quote": "கற்றறிந்த மை யா என்பது கேளாய் நன்றே கேடில் விழுச்சும் குடி",
+    "meaning": "Listen well! True learning is that which prevents a family from falling into misfortune. Education uplifts future generations."
+  },
+  {
+    "id": 4,
+    "quote": "கல்லாமை என்பது கேடாம் கல்லா வழி எல்லாம் எல்லாமை என்பது இழுக்கு",
+    "meaning": "Ignorance itself is misfortune, and all paths of ignorance lead to disgrace. The lack of education brings hardship."
+  },
+  {
+    "id": 5,
+    "quote": "கசடற கற்றல் பொருள் இன்றிக் கேட்டல் இரண்டும் பொருள் இல",
+    "meaning": "Learning without perseverance and listening without understanding - both are pointless. Actively engage in the learning process."
+  },
+  {
+    "id": 6,
+    "quote": "கல்வி சொல்லி கலங்க வேண்டா கல்லாமை கேட்க ஒன்று உண்டே",
+    "meaning": "Don't be afraid to speak what you've learned. Ignorance is the only thing you should be hesitant about speaking. Share your knowledge confidently."
+  },
+  {
+    "id": 7,
+    "quote": "கடன் என ஒன்று இல்லை கல்வி கற்கும் பிறன் வழி செலினும் போய்",
+    "meaning": "There's no shame in following another's path to learn."
+  },
+  {
+    "id": 8,
+    "quote": "இன் சொல் இயல்பு எவன் செல்வம் அது மடமை கடுஞ் சொல் என்பது இழுக்கு",
+    "meaning": "Whichever wealth cannot bring forth kind words, that is ignorance (a source of shame). True knowledge fosters good communication."
+  },
+  {
+    "id": 9,
+    "quote": "தன் வழி செலல் ஒருவன் கற்றறிவான் என்றால் பிறன் வழி செல எவன் செல்வம்",
+    "meaning": "If someone says learning follows only your own path, then what wealth is there in following another's path? Be open to diverse learning methods."
+  },
+  {
+    "id": 10,
+    "quote": "கேள்வி வழுக்காமை வேண்டா கேட்க ஒன்று செய்தல் பேரா முயற்சி அது",
+    "meaning": "Don't be averse to learning. It's a great effort to even try to learn something new."
+  },
+  {
+    "id": 11,
+    "quote": "வாய்மை என ஒன்று உண்டு அதனை முதற்கண் சேர்மினே எல்லாம் அதன் பின்",
+    "meaning": "There is one thing called truth; seek it first, and all else will follow. Truth is essential for genuine learning."
+  },
+  {
+    "id": 12,
+    "quote": "கடன் என ஒன்று இல்லை கல்வி கற்கும் பிறன் வழி செலினும் போய்",
+    "meaning": "There's no shame in following another's path to learn."
+  },
+  {
+    "id": 13,
+    "quote": "இன் சொல் இயல்பு எவன் செல்வம் அது மடமை கடுஞ் சொல் என்பது இழுக்கு",
+    "meaning": "Whichever wealth cannot bring forth kind words, that is ignorance (a source of shame). True knowledge fosters good communication."
+  },
+  {
+    "id": 14,
+    "quote": "தன் வழி செலல் ஒருவன் கற்றறிவான் என்றால் பிறன் வழி செல எவன் செல்வம்",
+    "meaning": "If someone says learning follows only your own path, then what wealth is there in following another's path? Be open to diverse learning methods."
+  },
+  {
+    "id": 15,
+    "quote": "கேள்வி வழுக்காமை வேண்டா கேட்க ஒன்று செய்தல் பேரா முயற்சி அது",
+    "meaning": "Don't be averse to learning. It's a great effort to even try to learn something new."
+  },
+  {
+    "id": 16,
+    "quote": "கற்க வேண்டின் எவன் செல்வம் அது மடமை கற்காமை என்பது இழுக்கு",
+    "meaning": "Whichever wealth prevents you from learning is nothing but ignorance (a source of shame). True wealth allows for and encourages learning."
+  },
+  {
+    "id": 17,
+    "quote": "கற்றதனால் ஆய அறிவு என்பது ஒன்று உண்டு மற்றது பிறர்க்கு இ பயன்",
+    "meaning": "There is only one benefit from learning - the knowledge gained. Everything else is just a show for others. Focus on genuine understanding."
+  },
+  {
+    "id": 18,
+    "quote": "கற்றல் செல்வம் எல்லாம் பிற செல்வம் போய் விடல் கல்வி யொன்று என்றும் நிலைத்து",
+    "meaning": "All other wealth may disappear, but the wealth of knowledge remains forever. Education is a lasting investment."
+  },
+  {
+    "id": 19,
+    "quote": "கற்க கசட வேண்டா கல்வி யொருவற்கு எழுத்து உற்று உணர்தல் அரிது",
+    "meaning": "Don't be lazy to learn. It's difficult for someone to truly understand even the letters they read. Learning requires dedication and effort."
+  },
+  {
+    "id": 20,
+    "quote": "அರிவு டைமை என்பது ஆக்கம் அரிவு இலாமை இழிவு டைமை அன்றே",
+    "meaning": "Gaining knowledge is progress. Lack of knowledge is not just a loss, but a regression. Education leads to growth."
+  },
+  {
+    "id": 21,
+    "quote": "இன் சொல் என்பது எவ் வழி செலவும் அன்புடைமை அதனை தரும்",
+    "meaning": "Kind words, no matter the path they take, will bring forth love. Education that fosters kindness is valuable."
+  },
+  {
+    "id": 22,
+    "quote": "கல்வி சொல்லல் பொருள் இன்றிக் கேட்க ஒன்று செய்தல் இரண்டும் பொருள் இல",
+    "meaning": "Speaking about knowledge without understanding it and trying to learn without focus - both are pointless. Actively engage and reflect on what you learn."
+  },
+  {
+    "id": 23,
+    "quote": "நூல் நெறி யான் வல்லேன் என்று செப்பல் ஒருவற்கு கூற்று நெறி இல்லாத மை",
+    "meaning": "For someone who says, 'I know the path of the scriptures,' but lacks the path of good conduct - it's just a claim. True knowledge shows in your actions."
+  },
+  {
+    "id": 24,
+    "quote": "கல்வி யாதும் கடை சிறுத்து என்பது இல்லை கல்லாமை என்பது கேடு",
+    "meaning": "There is no such thing as 'too little' education. Ignorance itself is misfortune. Every bit of learning adds value."
+  },
+  {
+    "id": 25,
+    "quote": "இன் சொல் இயல்பு எவன் செல்வம் அது ம டமை கடுஞ் சொல் என்பது இழுக்கு",
+    "meaning": "Whichever wealth cannot bring forth kind words, that is ignorance (a source of shame). True knowledge fosters good communication."
+  },
+  {
+    "id": 26,
+    "quote": "தன் வழி செலல் ஒருவன் கற்றறிவான் என்றால் பிறன் வழி செல எவன் செல்வம்",
+    "meaning": "If someone claims that learning is limited to one's own path, then what worth is there in following another's path? Diverse learning methods can offer more value."
+  },
+  {
+    "id": 27,
+    "quote": "கேள்வி வழுக்காமை வேண்டா கேட்க ஒன்று செய்தல் பேரா முயற்சி அது",
+    "meaning": "Don't be reluctant to ask questions. Engaging actively in learning through inquiry is a worthy endeavor."
+  },
+  {
+    "id": 28,
+    "quote": "வாய்மை என ஒன்று உண்டு அதனை முதற்கண் சேர்மினே எல்லாம் அதன் பின்",
+    "meaning": "Truth is paramount. Seek it first, and everything else will align with it. Honesty is foundational in any pursuit."
+  },
+  {
+    "id": 29,
+    "quote": "கடன் என ஒன்று இல்லை கல்வி கற்கும் பிறன் வழி செலினும் போய்",
+    "meaning": "There is no debt in pursuing education, even if it means following in the footsteps of another. Learning is a valuable investment."
+  },
+  {
+    "id": 30,
+    "quote": "இன் சொல் இயல்பு எவன் செல்வம் அது மடமை கடுஞ் சொல் என்பது இழுக்கு",
+    "meaning": "Kindness in words brings richness in life, whereas harshness only leads to difficulty. A kind word is a true treasure."
+  }
 ]
